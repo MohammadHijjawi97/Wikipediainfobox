@@ -9,5 +9,4 @@ This project demonstrates the automation of assigning infobox templates to Wikip
 2. **Approach 2**: Fine-tuning large language models (LLMs) directly for classification tasks, achieving competitive accuracy in identifying infobox templates based on article content.
 
 > **Note:**  
-> These are sample codes only, provided to showcase the implementation process of both approaches. For a more detailed overview, please refer to the full project report.
-
+> These are sample codes only, provided to showcase the implementation process of both approaches.
